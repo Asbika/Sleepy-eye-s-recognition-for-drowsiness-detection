@@ -1,9 +1,5 @@
 # Sleepy-eye-s-recognition-for-drowsiness-detection
 
-**************  Sleepy eye’s recognition for drowsiness detection **************
-
-++++++++++++++++Application de détection et reconnaissance de somnolence - Guide de mise en œuvre++++++++++++++++++++++++
-####################### POUR LE PREMIER MODEL ##############################################################################
 Ce fichier README fournit des instructions sur la manière de mettre en œuvre l'application
 de détection et de reconnaissance de somnolence basée sur un modèle de deep learning.
 Suivez les étapes ci-dessous pour exécuter l'application avec succès.Prérequis
